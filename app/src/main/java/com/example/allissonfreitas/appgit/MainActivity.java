@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     EditText login, senha;
     AlertDialog alerta;
 
+    String teste;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
